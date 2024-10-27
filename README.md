@@ -1,5 +1,36 @@
-Project Two 
 
-	For my scene I just chose one of the given images for the previous section. I chose it because it seemed fairly simple to depict some of the shapes I would need to recreate it. When I started, I just tried focusing more on the main parts of the image that I felt were more important, and kind of took out some of the abstract parts of the image like tree limbs in the background to make it a bit simpler to recreate. The objects I chose seemed fairly simple; however, after doing it I realized it would take multiple shapes to recreate the trees to look more like the image. When programming my scene, I started by adding 3D shapes into my scene manager and adjusting their orientation and scale to create the objects in my scene. Some of the objects in my scene required multiple shapes to recreate the objects and the way they looked, this also helped as well when I had to add texture to the trees as well and allowed me to give depth to areas of the trees to look more realistic. This also helped to give shadow to the trees as well to look more realistic. 
-	When setting up my virtual camera both keyboard and mouse can be used to navigate through the scene. The mouse can be used the pan around the screen in order to adjust the camera’s orientation. The user can glance left, right, up, or down with the mouse and speed up and slow down the camera’s movement speed with the scroll wheel. The user can also use the keyboard WASD QE keys to pan the camera position up, down, left, right, backwards and forwards. 
-	 The way the functions were set up in the example in module one is how I decided to build my project around. I added some functions for the lighting and texture similar to the example in my scenemanager.h and scenemanager.cpp file that way I could easily apply the textures and lighting to my scene. I used the same functions to build the shapes, scale and orient them to recreate the scene. Some of the challenges I faced when doing so were essentially overthinking the layout of my scene. I spent a lot of time after getting my objects built constantly just moving them around after the fact to trying and get a similar look of the photo. But when I would get it looking like the photo from one view point it would look where from other angles as I navigate around my 3D scene. I eventually told myself to just recreate the scene in the image the way I think that area looks in real life so that is what I attempted to do. Since I had many objects in my scene and multiple shapes to recreate those objects, I used in line comments to kind of help me be able to know what I am working on. This was also a challenge mainly cause all the objects are either trees or bushes, so it was hard to sometimes figure out what was what even after labeling them. The bulk of the work I did from my project involved Preparing the scene then rendering the scene and implementing incremental changes until things started to look right.
+   
+    How do I approach designing software?
+    My approach to designing software thus far is trying to learn and be able to apply all the skills being taught. I don't typically try to get too creative just yet even though I want too. 
+    
+        What new design skills has your work on the project helped you to craft?
+	The new design skills I have learned while working on my project is the use of opengl and dealing with shapes and manipulating size, texture, lighting, and position. 
+ 
+        What design process did you follow for your project work?
+	For my project I took a image given in the prvious section and built my program to imulate the same picture but in a 3D model. For this I created little by little for each milestone eventually recreating the image in the end.
+ 
+        How could tactics from your design approach be applied in future work?
+	In the future I think I will take very similar steps I took this time. I didn't run into alot of issues aside for adjusting lighting. 
+ 
+    How do I approach developing programs?
+    Firstly with a prgram like this my approach was more along the lines of  seeing an image and then looking at all the shapes it will require to recreate the image. I like more upfront planning and establishing milestones.
+    
+        What new development strategies did you use while working on your 3D scene?
+	I used applying texture, color, and lighting. I also learned how to scale and manipulate shapes to recreate objects.
+ 
+        How did iteration factor into your development?
+	iteration helped me break my development into sections and allowed me to focus on that specific part of my program. 
+ 
+        How has your approach to developing code evolved throughout the milestones, which led you to the project’s completion?
+	My project evolved and became more realistic after each milestone the first milestone I was able to essentially set up my scene and objects within it so I have a scene of nothing but colorful shapes, then
+ 	after that I added texture to my objects, then lighting and eventually it all came together with minor adjustments here and there. 
+  
+    How can computer science help me in reaching my goals?
+    Computer science can give me the knowledge to understand some of the programs I will be working on in the future. Also how to work on them.
+    
+        How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future educational pathway?
+	My goal is to get into a government contracting position that will allow me to create virtual simulation programs for the US military. visualization and graphics is 
+ 	important when considering realistic scenarios and simulations.
+  
+        
+	
